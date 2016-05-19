@@ -1,0 +1,12 @@
+---
+layout: default
+img: programming.jpg
+category: Services
+title: Desarrollo de software
+description: |
+---
+- Desarrollo de sistemas de administración a medida.
+
+- Sistemas para estudios contables, jurídicos, inmobiliarias, entre
+otros.
+

@@ -1,0 +1,13 @@
+---
+layout: default
+img: hardware.jpg
+category: Services
+title: Servicios de hardware
+description: |
+---
+- Armado de computadoras a medida.
+
+- Reparación de computadoras, impresoras y dispositivos móviles.
+
+- Instalación de redes de computadoras
+

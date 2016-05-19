@@ -1,0 +1,14 @@
+---
+layout: default
+img: software.jpg
+category: Services
+title: Servicios informáticos
+description: |
+---
+- Instalación de sofware en computadoras y equipos móviles
+
+- Instalación de antivirus y software de protección.
+
+- Recuperación de información de discos rígidos y otros sistemas de almacenamiento.
+
+

@@ -1,0 +1,15 @@
+---
+layout: default
+img: biometric.jpg
+category: Services
+title: Sistemas electrónicos de acceso
+description: |
+---
+- Dispositivos de proximidad, biométricos, ópticos, magnéticos.
+
+- Instalación de fichadores electrónicos.
+
+- Provisión e impresión de credenciales plásticas con o sin chip electrónico.
+
+- Instalación de molinetes y otros elementos de control de acceso.
+
