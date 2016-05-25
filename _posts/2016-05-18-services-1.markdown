@@ -7,6 +7,5 @@ description: |
 ---
 - Desarrollo de sistemas de administración a medida.
 
-- Sistemas para estudios contables, jurídicos, inmobiliarias, entre
-otros.
+- Sistemas para estudios contables, jurídicos, inmobiliarias.
 
